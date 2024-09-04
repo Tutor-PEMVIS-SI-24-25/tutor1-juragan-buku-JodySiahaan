@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="Jody Alfonso Siahaan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:11:49 PM"/>
+        <attribute name="created" value="Sm9keSBBbGZvbnNvIFNpYWhhYW47TEFQVE9QLUVRTklHNkQ4OzIwMjQtMDktMDQ7MDg6MTM6MTMgUE07NDIyNQ=="/>
+        <attribute name="edited" value="Sm9keSBBbGZvbnNvIFNpYWhhYW47TEFQVE9QLUVRTklHNkQ4OzIwMjQtMDktMDQ7MDk6MTE6NDkgUE07MTs0MzQx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nama" type="String" array="False" size=""/>
+            <input variable="Nama"/>
+            <output expression="&quot;JodyAlfonsoSiahaan&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
